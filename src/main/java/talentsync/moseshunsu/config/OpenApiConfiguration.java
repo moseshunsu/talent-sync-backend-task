@@ -28,7 +28,7 @@ import io.swagger.v3.oas.annotations.servers.Server;
         servers = {
                 @Server(
                         description = "Prod ENV",
-                        url = "https://"
+                        url = "https://talent-sync-backend-task.onrender.com"
                 ),
                 @Server(
                         description = "Local ENV",
